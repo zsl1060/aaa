@@ -30,7 +30,7 @@
 #include <list>
 #include "TLogger.h"
 using namespace std;
-
+#define test 1
 #define USEXPTHEMES
 
 extern void PrintConsole(char *format, ...);
@@ -57,6 +57,6 @@ extern void PrintConsole(char *format, ...);
 #define HOTFIXUNINSTALL_END	10
 #define HOTFIXUNINSTALL_SUCCESS_NORESTART	11
 
-#define EPOLCC_RECEVIE_HOTFIXAGENT_DATA "<HOTFIXAGENT_DATA>"//hotfix agent发过来的补丁信息；
+#define EPOLCC_RECEVIE_HOTFIXAGENT_DATA "<HOTFIXAGENT_DATA>"//hotfix agent路垄鹿媒脌麓碌脛虏鹿露隆脨脜脧垄拢禄
 
 #endif // !defined(AFX_STDAFX_H__4EA79F36_0569_40AE_85F3_B205C7E5EE21__INCLUDED_)
